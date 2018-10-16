@@ -12,10 +12,10 @@ https://nodejs.org/en/
 
 # Arquivos:
 
-App.js
-Block.js
-Blockchain.js
-transaction.js
+app.js,
+Block.js,
+Blockchain.js,
+Transaction.js,
 
 
 # Windows:
